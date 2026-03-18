@@ -57,5 +57,5 @@ python -m pip install -r requirements-dev.txt
 Run the test suite:
 
 ```bash
-pytest
+python -m pytest -q
 ```
